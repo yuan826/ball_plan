@@ -7,3 +7,5 @@
 - matplotlib: 繪圖工具。
 - wordcloud: 繪製文字雲工具。
 - jieba: 中文斷詞工具。
+
+- 詳細程式碼請參考: intern.ipynb
